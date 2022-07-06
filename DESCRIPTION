@@ -1,0 +1,13 @@
+Package: introRcppPackages
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2022-07-05
+Encoding: UTF-8
+Author: Hervé Perdry
+Maintainer: Hervé Perdry <herve.perdry@universite-paris-saclay.fr>
+Description: A very simple example of R package using Rcpp
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
